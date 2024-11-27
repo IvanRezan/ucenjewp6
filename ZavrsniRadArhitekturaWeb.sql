@@ -30,7 +30,7 @@ create table postignuca(
 sifra int not null primary key identity (1,1),
 naziv varchar (1000),
 datum date not null,
-linkovi varchar (100) not null
+linkovi varchar (1000) not null
 );
 
 INSERT INTO postignuca (naziv, datum, linkovi) VALUES
