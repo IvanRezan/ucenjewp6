@@ -1,4 +1,4 @@
-﻿select * from smjerovi
+﻿ select * from smjerovi
 -- Update
 
 update smjerovi set cijena=1100
