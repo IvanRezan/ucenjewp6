@@ -31,5 +31,7 @@ sifra int not null primary key identity (1,1),
 naziv varchar (1000),
 datum date not null
 );
---insert into postignuca(natjecanja,nagrade,izradeniprojekti) values
+insert into postignuca(naziv,datum) values
+('Millennial competition in creative industry','2023-5-25')
+('ALLPLAN faculty hackathon 2022','2023-7-24')
 
