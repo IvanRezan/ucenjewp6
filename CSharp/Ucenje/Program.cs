@@ -1,4 +1,8 @@
-﻿
+﻿using Ucenje;
+
+
+E01ulazizlaz.Izvedi();
+
 // komentar jedna linija 
 
 /*
@@ -6,5 +10,6 @@
  
  
 */
-Console.WriteLine("Pozdrav Svijetu đšććčš đćđććđ đš");
-Console.WriteLine("Hello osijek");
+//Console.WriteLine("Pozdrav Svijetu đšććčš đćđććđ đš");
+//Console.WriteLine("Hello osijek");
+
