@@ -1,2 +1,10 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿
+// komentar jedna linija 
+
+/*
+ komentar više linija
+ 
+ 
+*/
+Console.WriteLine("Pozdrav Svijetu đšććčš đćđććđ đš");
+Console.WriteLine("Hello osijek");
