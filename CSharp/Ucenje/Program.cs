@@ -1,7 +1,8 @@
 ﻿
 
 using Ucenje;
-EO3Operator.izvedi();
+EO3Z1.izvedi();
+//EO3Operator.izvedi();
  //E02Z1.izvedi();
 
 //E02VarijableTipoviPodataka.izvedi();
